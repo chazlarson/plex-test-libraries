@@ -8,3 +8,5 @@ Beware, there are some very long filenames here that Windows doesn't like by def
 https://stackoverflow.com/a/22575737
 
 These were created intially by: https://github.com/chazlarson/test-lib-maker
+
+If you want different movies/shows and can run a shell script, look into it.
