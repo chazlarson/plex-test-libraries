@@ -5,7 +5,7 @@ Clone the repo somewhere, point your media server at it.
 
 Beware, there are some very long filenames here that git on the command line in Windows doesn't like by default.
 
-This stackoverflow post has sopme details and some possible workarounds:
+This stackoverflow post has details and possible workarounds:
 
 https://stackoverflow.com/a/22575737
 
